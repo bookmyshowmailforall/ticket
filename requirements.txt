@@ -1,0 +1,4 @@
+BeautifulSoup
+smtplib
+email.message
+requests
