@@ -32,3 +32,5 @@ if(flag==True):
 		send_mail(movie,"Booking is open for "+movie,user)
 else:
 	print("Booking is not opened")
+	
+	
